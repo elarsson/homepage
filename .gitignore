@@ -10,6 +10,11 @@ Thumbs.db
 
 # Dependencies
 node_modules/
+package.json
+package-lock.json
+
+# Screenshot helper script (local dev only)
+screenshot.mjs
 
 # Build output
 dist/
